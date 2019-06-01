@@ -10,7 +10,7 @@ int main()
     cout << "Ile jest stundetow w twojej uczelni?"<<endl;
     cin >> a;
     cout << "Na podstawie twoich dancyh w twoijej uczelni jest tylko:  ";
-    cout << a << "milego dnia";
+    cout << a << "milego dnia"<< endl;
 
     cout <<"-------------------------------------------------------------"<<endl;
 
