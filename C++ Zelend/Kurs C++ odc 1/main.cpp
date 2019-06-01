@@ -25,7 +25,9 @@ int main()
     cout <<"Cukierkow dla kazdego ucznia: "<< x;
 
     y = cukierki-x*(uczniowie-1);
-    cout <<endl<<"Dla jasie na wieczor zostalo: "<<y ;
+    cout <<endl<<"Dla jasie na wieczor zostalo: "<<y<<endl;
+    cout <<"Dziekuje za uwage";
+
     return 0;
 }
 
