@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "axios": "0.18.0",
-    "expo": "32.0.6",
+    "expo": "46.0.14",
     "fast-html-parser": "1.0.1",
     "native-base": "^2.12.1",
     "parse5": "^5.1.0",
